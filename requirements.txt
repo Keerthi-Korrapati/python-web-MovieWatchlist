@@ -6,4 +6,3 @@ pymongo[srv]
 flask-security
 email_validator
 passlib
-python-3.11.4
